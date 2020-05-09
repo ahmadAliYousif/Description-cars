@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#4AA8F3</color>
+    <color name="colorPrimaryDark">#34225E</color>
+    <color name="colorAccent">#09F3DF</color>
+    <color name="primary_text">#212121</color>
+    <color name="secondary_text">#753E3E</color>
+    <color name="icons">#A26C6C</color>
+    <color name="divider">#DBDBDB</color>
+    <color name="custom_car_tv_model_txt_color">#947979</color>
+
+</resources>
